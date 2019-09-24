@@ -1,0 +1,22 @@
+Equals Selected
+Addition in Progress
+Equals Selected
+Equals resulted in full clear
+7
+7.00
+8
+78.00
+Add Selected
+78.00
+9
+9.00
+Equals Selected
+Addition in Progress
+Subtract Selected
+87.00
+7
+7.00
+Equals Selected
+Subtraction in Progress
+Equals Selected
+Equals resulted in full clear
